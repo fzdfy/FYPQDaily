@@ -1,0 +1,949 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/AFNetworking",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFAutoPurgingImageCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFImageDownloader.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/MBProgressHUD",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MBProgressHUD.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MBProgressHUD/MBProgressHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/MJExtension",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJExtension.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtensionConst.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/MJExtensionConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJFoundation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/MJFoundation.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJProperty.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyKey.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/MJPropertyKey.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyType.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/MJPropertyType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJClass.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/NSObject+MJClass.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJCoding.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/NSObject+MJCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJKeyValue.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJProperty.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/NSObject+MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+MJExtension.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJExtension/MJExtension/NSString+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/MJRefresh",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJRefresh.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoGifFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoNormalFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshAutoStateFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackGifFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackNormalFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshBackStateFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshComponent.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshConst.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/MJRefreshConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshFooter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshGifHeader.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshHeader.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshNormalHeader.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJRefreshStateHeader.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSBundle+MJRefresh.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/NSBundle+MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+MJExtension.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+MJRefresh.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+MJExtension.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/MJRefresh/MJRefresh/UIView+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/Masonry",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MASCompositeConstraint.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASCompositeConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint+Private.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASConstraint+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraintMaker.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASConstraintMaker.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASLayoutConstraint.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASLayoutConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASUtilities.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewAttribute.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASViewAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewConstraint.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/MASViewConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/Masonry.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASAdditions.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/NSArray+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASShorthandAdditions.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+MASDebugAdditions.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASAdditions.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/View+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASShorthandAdditions.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/View+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "ViewController+MASAdditions.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/Masonry/Masonry/ViewController+MASAdditions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/SDWebImage",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/YYKit",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CALayer+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Quartz/CALayer+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "CALayer+YYWebImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/Categories/CALayer+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "MKAnnotationView+YYWebImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/Categories/MKAnnotationView+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSArray+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+YYText.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/NSAttributedString+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSBundle+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSBundle+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSData+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDate+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSDate+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSDictionary+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSKeyedUnarchiver+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSKeyedUnarchiver+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSNotificationCenter+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNumber+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSNumber+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSObject+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYAddForARC.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSObject+YYAddForARC.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYAddForKVO.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSObject+YYAddForKVO.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYModel.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Model/NSObject+YYModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSParagraphStyle+YYText.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/NSParagraphStyle+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSString+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSThread+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSThread+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSTimer+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Foundation/NSTimer+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIApplication+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIApplication+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIBarButtonItem+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBezierPath+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIBezierPath+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+YYWebImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/Categories/UIButton+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIColor+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIControl+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDevice+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIDevice+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFont+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIFont+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIGestureRecognizer+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIImage+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+YYWebImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/Categories/UIImageView+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIPasteboard+YYText.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/UIPasteboard+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScreen+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIScreen+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIScrollView+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UITableView+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UITextField+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+YYAdd.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/UIKit/UIView+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYAnimatedImageView.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYAnimatedImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYAsyncLayer.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYAsyncLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCGUtilities.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/Quartz/YYCGUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Cache/YYCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYClassInfo.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Model/YYClassInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYDiskCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Cache/YYDiskCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYDispatchQueuePool.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYDispatchQueuePool.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYFileHash.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYFileHash.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYFrameImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYFrameImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYGestureRecognizer.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYGestureRecognizer.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImageCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImageCoder.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYImageCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYKVStorage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Cache/YYKVStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYKeychain.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYKeychain.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYKit.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/YYKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYKitMacro.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Base/YYKitMacro.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYLabel.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/YYLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYMemoryCache.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Cache/YYMemoryCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYReachability.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYReachability.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYSentinel.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYSentinel.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYSpriteSheetImage.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYSpriteSheetImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextArchiver.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/YYTextArchiver.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextAttribute.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/YYTextAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextContainerView.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextContainerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextDebugOption.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextDebugOption.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextEffectWindow.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextEffectWindow.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextInput.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextInput.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextKeyboardManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextKeyboardManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextLayout.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextLine.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextLine.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextMagnifier.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextMagnifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextParser.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/YYTextParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextRubyAnnotation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/YYTextRubyAnnotation.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextRunDelegate.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/YYTextRunDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextSelectionView.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/Component/YYTextSelectionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextUtilities.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/String/YYTextUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextView.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Text/YYTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYThreadSafeArray.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYThreadSafeArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYThreadSafeDictionary.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYThreadSafeDictionary.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTimer.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYTimer.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTransaction.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYTransaction.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWeakProxy.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Utility/YYWeakProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImageManager.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImageOperation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/YYWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "_YYWebImageSetter.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/YYKit/YYKit/Image/Categories/_YYWebImageSetter.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/pop",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "POP.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POP.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimatableProperty.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimatableProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimatablePropertyTypes.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimatablePropertyTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimationEvent.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimationEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimationExtras.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimationExtras.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimationTracer.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimationTracer.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPAnimator.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPAnimator.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPBasicAnimation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPBasicAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPCustomAnimation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPCustomAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPDecayAnimation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPDecayAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPDefines.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPGeometry.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPGeometry.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPLayerExtras.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPLayerExtras.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPPropertyAnimation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPPropertyAnimation.h"
+        },
+        {
+          'type': 'file',
+          'name': "POPSpringAnimation.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Pods/pop/pop/POPSpringAnimation.h"
+        }
+      ]
+    }
+  ]
+}

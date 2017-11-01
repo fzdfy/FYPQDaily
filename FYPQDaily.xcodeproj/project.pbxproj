@@ -1,0 +1,874 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		154212B7D1C287742D056565 /* libPods-FYPQDaily.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C0E9A5D5F1139C881C18A62 /* libPods-FYPQDaily.a */; };
+		3A0321961FA9D0AC00A46A11 /* ReaderToolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0321951FA9D0AC00A46A11 /* ReaderToolView.swift */; };
+		3A0321991FA9FDE500A46A11 /* ReaderToolView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A0321981FA9FDE500A46A11 /* ReaderToolView.m */; };
+		3A4E5BE61FA70033008F9B6A /* HomeNewsDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BE51FA70033008F9B6A /* HomeNewsDataManager.m */; };
+		3A4E5BE91FA70D87008F9B6A /* YYFPSLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BE81FA70D87008F9B6A /* YYFPSLabel.m */; };
+		3A4E5BEC1FA71EFF008F9B6A /* SuspensionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BEB1FA71EFF008F9B6A /* SuspensionView.m */; };
+		3A4E5BF21FA76AFA008F9B6A /* DeviceUitil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BF01FA76AF9008F9B6A /* DeviceUitil.m */; };
+		3A4E5BF51FA78202008F9B6A /* MenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BF41FA78202008F9B6A /* MenuView.m */; };
+		3A4E5BF91FA9150E008F9B6A /* LoopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BF81FA9150C008F9B6A /* LoopView.m */; };
+		3A4E5BFC1FA91807008F9B6A /* LoopViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BFB1FA91807008F9B6A /* LoopViewLayout.m */; };
+		3A4E5BFF1FA918A6008F9B6A /* LoopViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5BFE1FA918A6008F9B6A /* LoopViewCell.m */; };
+		3A4E5C031FA91CC3008F9B6A /* NSTimer+Blocks.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4E5C021FA91CC3008F9B6A /* NSTimer+Blocks.m */; };
+		3A69FF3F1FA59C7200246830 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF3E1FA59C7200246830 /* AppDelegate.m */; };
+		3A69FF421FA59C7200246830 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF411FA59C7200246830 /* ViewController.m */; };
+		3A69FF451FA59C7200246830 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A69FF431FA59C7200246830 /* Main.storyboard */; };
+		3A69FF471FA59C7200246830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A69FF461FA59C7200246830 /* Assets.xcassets */; };
+		3A69FF4A1FA59C7200246830 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A69FF481FA59C7200246830 /* LaunchScreen.storyboard */; };
+		3A69FF4D1FA59C7200246830 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF4C1FA59C7200246830 /* main.m */; };
+		3A69FF571FA59C7200246830 /* FYPQDailyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF561FA59C7200246830 /* FYPQDailyTests.m */; };
+		3A69FF621FA59C7200246830 /* FYPQDailyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF611FA59C7200246830 /* FYPQDailyUITests.m */; };
+		3A69FF7D1FA5FA5000246830 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF7C1FA5FA5000246830 /* HomeViewController.m */; };
+		3A69FF811FA6250800246830 /* HomeNewsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF801FA6250800246830 /* HomeNewsTableViewCell.m */; };
+		3A69FF851FA62E0A00246830 /* ResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF841FA62E0A00246830 /* ResponseModel.m */; };
+		3A69FF881FA62E2500246830 /* NewsCellLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A69FF871FA62E2500246830 /* NewsCellLayout.m */; };
+		3A9F533C1FA9B4C0004397F6 /* ReaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A9F533B1FA9B4C0004397F6 /* ReaderViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3A69FF531FA59C7200246830 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3A69FF321FA59C7200246830 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3A69FF391FA59C7200246830;
+			remoteInfo = FYPQDaily;
+		};
+		3A69FF5E1FA59C7200246830 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3A69FF321FA59C7200246830 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3A69FF391FA59C7200246830;
+			remoteInfo = FYPQDaily;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0C0E9A5D5F1139C881C18A62 /* libPods-FYPQDaily.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FYPQDaily.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A0321941FA9D0AB00A46A11 /* FYPQDaily-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FYPQDaily-Bridging-Header.h"; sourceTree = "<group>"; };
+		3A0321951FA9D0AC00A46A11 /* ReaderToolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderToolView.swift; sourceTree = "<group>"; };
+		3A0321971FA9FDE500A46A11 /* ReaderToolView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReaderToolView.h; sourceTree = "<group>"; };
+		3A0321981FA9FDE500A46A11 /* ReaderToolView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReaderToolView.m; sourceTree = "<group>"; };
+		3A4E5BE41FA70033008F9B6A /* HomeNewsDataManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeNewsDataManager.h; sourceTree = "<group>"; };
+		3A4E5BE51FA70033008F9B6A /* HomeNewsDataManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeNewsDataManager.m; sourceTree = "<group>"; };
+		3A4E5BE71FA70D87008F9B6A /* YYFPSLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYFPSLabel.h; sourceTree = "<group>"; };
+		3A4E5BE81FA70D87008F9B6A /* YYFPSLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYFPSLabel.m; sourceTree = "<group>"; };
+		3A4E5BEA1FA71EFF008F9B6A /* SuspensionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SuspensionView.h; sourceTree = "<group>"; };
+		3A4E5BEB1FA71EFF008F9B6A /* SuspensionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SuspensionView.m; sourceTree = "<group>"; };
+		3A4E5BF01FA76AF9008F9B6A /* DeviceUitil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceUitil.m; sourceTree = "<group>"; };
+		3A4E5BF11FA76AF9008F9B6A /* DeviceUitil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceUitil.h; sourceTree = "<group>"; };
+		3A4E5BF31FA78202008F9B6A /* MenuView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuView.h; sourceTree = "<group>"; };
+		3A4E5BF41FA78202008F9B6A /* MenuView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuView.m; sourceTree = "<group>"; };
+		3A4E5BF71FA9150C008F9B6A /* LoopView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoopView.h; sourceTree = "<group>"; };
+		3A4E5BF81FA9150C008F9B6A /* LoopView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoopView.m; sourceTree = "<group>"; };
+		3A4E5BFA1FA91807008F9B6A /* LoopViewLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoopViewLayout.h; sourceTree = "<group>"; };
+		3A4E5BFB1FA91807008F9B6A /* LoopViewLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoopViewLayout.m; sourceTree = "<group>"; };
+		3A4E5BFD1FA918A6008F9B6A /* LoopViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoopViewCell.h; sourceTree = "<group>"; };
+		3A4E5BFE1FA918A6008F9B6A /* LoopViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoopViewCell.m; sourceTree = "<group>"; };
+		3A4E5C011FA91CC3008F9B6A /* NSTimer+Blocks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTimer+Blocks.h"; sourceTree = "<group>"; };
+		3A4E5C021FA91CC3008F9B6A /* NSTimer+Blocks.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+Blocks.m"; sourceTree = "<group>"; };
+		3A69FF3A1FA59C7200246830 /* FYPQDaily.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FYPQDaily.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A69FF3D1FA59C7200246830 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3A69FF3E1FA59C7200246830 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3A69FF401FA59C7200246830 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3A69FF411FA59C7200246830 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3A69FF441FA59C7200246830 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3A69FF461FA59C7200246830 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3A69FF491FA59C7200246830 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3A69FF4B1FA59C7200246830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A69FF4C1FA59C7200246830 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3A69FF521FA59C7200246830 /* FYPQDailyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FYPQDailyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A69FF561FA59C7200246830 /* FYPQDailyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FYPQDailyTests.m; sourceTree = "<group>"; };
+		3A69FF581FA59C7200246830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A69FF5D1FA59C7200246830 /* FYPQDailyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FYPQDailyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A69FF611FA59C7200246830 /* FYPQDailyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FYPQDailyUITests.m; sourceTree = "<group>"; };
+		3A69FF631FA59C7200246830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A69FF7B1FA5FA5000246830 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		3A69FF7C1FA5FA5000246830 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		3A69FF7F1FA6250800246830 /* HomeNewsTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeNewsTableViewCell.h; sourceTree = "<group>"; };
+		3A69FF801FA6250800246830 /* HomeNewsTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeNewsTableViewCell.m; sourceTree = "<group>"; };
+		3A69FF831FA62E0A00246830 /* ResponseModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ResponseModel.h; sourceTree = "<group>"; };
+		3A69FF841FA62E0A00246830 /* ResponseModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ResponseModel.m; sourceTree = "<group>"; };
+		3A69FF861FA62E2500246830 /* NewsCellLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewsCellLayout.h; sourceTree = "<group>"; };
+		3A69FF871FA62E2500246830 /* NewsCellLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsCellLayout.m; sourceTree = "<group>"; };
+		3A69FF8A1FA6C11F00246830 /* Configs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Configs.h; sourceTree = "<group>"; };
+		3A69FF8B1FA6C11F00246830 /* Fonts.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fonts.h; sourceTree = "<group>"; };
+		3A69FF8C1FA6C11F00246830 /* Colors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Colors.h; sourceTree = "<group>"; };
+		3A69FF8D1FA6C11F00246830 /* Strings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Strings.h; sourceTree = "<group>"; };
+		3A69FF8E1FA6C13D00246830 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		3A9F533A1FA9B4C0004397F6 /* ReaderViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReaderViewController.h; sourceTree = "<group>"; };
+		3A9F533B1FA9B4C0004397F6 /* ReaderViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReaderViewController.m; sourceTree = "<group>"; };
+		B5838B99F8B5B454DDC2D263 /* Pods-FYPQDaily.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FYPQDaily.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FYPQDaily/Pods-FYPQDaily.debug.xcconfig"; sourceTree = "<group>"; };
+		BBBEADA346B7B07DEB5D29BF /* Pods-FYPQDaily.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FYPQDaily.release.xcconfig"; path = "Pods/Target Support Files/Pods-FYPQDaily/Pods-FYPQDaily.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3A69FF371FA59C7200246830 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				154212B7D1C287742D056565 /* libPods-FYPQDaily.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3A69FF4F1FA59C7200246830 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3A69FF5A1FA59C7200246830 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2AFCC093A8D9F7241C696358 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B5838B99F8B5B454DDC2D263 /* Pods-FYPQDaily.debug.xcconfig */,
+				BBBEADA346B7B07DEB5D29BF /* Pods-FYPQDaily.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		3A4E5BE31FA6FFFF008F9B6A /* DataManager */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5BE41FA70033008F9B6A /* HomeNewsDataManager.h */,
+				3A4E5BE51FA70033008F9B6A /* HomeNewsDataManager.m */,
+			);
+			path = DataManager;
+			sourceTree = "<group>";
+		};
+		3A4E5BED1FA76ACD008F9B6A /* DeviceUitil */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5BF11FA76AF9008F9B6A /* DeviceUitil.h */,
+				3A4E5BF01FA76AF9008F9B6A /* DeviceUitil.m */,
+			);
+			path = DeviceUitil;
+			sourceTree = "<group>";
+		};
+		3A4E5BF61FA9138D008F9B6A /* LoopView */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5BF71FA9150C008F9B6A /* LoopView.h */,
+				3A4E5BF81FA9150C008F9B6A /* LoopView.m */,
+				3A4E5BFD1FA918A6008F9B6A /* LoopViewCell.h */,
+				3A4E5BFE1FA918A6008F9B6A /* LoopViewCell.m */,
+				3A4E5BFA1FA91807008F9B6A /* LoopViewLayout.h */,
+				3A4E5BFB1FA91807008F9B6A /* LoopViewLayout.m */,
+			);
+			path = LoopView;
+			sourceTree = "<group>";
+		};
+		3A4E5C001FA91C1C008F9B6A /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5C011FA91CC3008F9B6A /* NSTimer+Blocks.h */,
+				3A4E5C021FA91CC3008F9B6A /* NSTimer+Blocks.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		3A69FF311FA59C7200246830 = {
+			isa = PBXGroup;
+			children = (
+				3A69FF3C1FA59C7200246830 /* FYPQDaily */,
+				3A69FF551FA59C7200246830 /* FYPQDailyTests */,
+				3A69FF601FA59C7200246830 /* FYPQDailyUITests */,
+				3A69FF3B1FA59C7200246830 /* Products */,
+				2AFCC093A8D9F7241C696358 /* Pods */,
+				A7FFDCF3FFBCF82071371512 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3A69FF3B1FA59C7200246830 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF3A1FA59C7200246830 /* FYPQDaily.app */,
+				3A69FF521FA59C7200246830 /* FYPQDailyTests.xctest */,
+				3A69FF5D1FA59C7200246830 /* FYPQDailyUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3A69FF3C1FA59C7200246830 /* FYPQDaily */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5BE31FA6FFFF008F9B6A /* DataManager */,
+				3A69FF891FA6C10900246830 /* Config */,
+				3A69FF791FA5FA2A00246830 /* ViewController */,
+				3A69FF6F1FA59D7C00246830 /* Utils */,
+				3A69FF3D1FA59C7200246830 /* AppDelegate.h */,
+				3A69FF3E1FA59C7200246830 /* AppDelegate.m */,
+				3A69FF401FA59C7200246830 /* ViewController.h */,
+				3A69FF411FA59C7200246830 /* ViewController.m */,
+				3A69FF431FA59C7200246830 /* Main.storyboard */,
+				3A69FF461FA59C7200246830 /* Assets.xcassets */,
+				3A69FF481FA59C7200246830 /* LaunchScreen.storyboard */,
+				3A69FF4B1FA59C7200246830 /* Info.plist */,
+				3A69FF4C1FA59C7200246830 /* main.m */,
+				3A69FF8E1FA6C13D00246830 /* PrefixHeader.pch */,
+			);
+			path = FYPQDaily;
+			sourceTree = "<group>";
+		};
+		3A69FF551FA59C7200246830 /* FYPQDailyTests */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF561FA59C7200246830 /* FYPQDailyTests.m */,
+				3A69FF581FA59C7200246830 /* Info.plist */,
+			);
+			path = FYPQDailyTests;
+			sourceTree = "<group>";
+		};
+		3A69FF601FA59C7200246830 /* FYPQDailyUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF611FA59C7200246830 /* FYPQDailyUITests.m */,
+				3A69FF631FA59C7200246830 /* Info.plist */,
+			);
+			path = FYPQDailyUITests;
+			sourceTree = "<group>";
+		};
+		3A69FF6F1FA59D7C00246830 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5C001FA91C1C008F9B6A /* Category */,
+				3A4E5BED1FA76ACD008F9B6A /* DeviceUitil */,
+				3A69FF701FA59EDF00246830 /* Common */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3A69FF701FA59EDF00246830 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF761FA5F9F400246830 /* FPSLabel */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		3A69FF761FA5F9F400246830 /* FPSLabel */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5BE71FA70D87008F9B6A /* YYFPSLabel.h */,
+				3A4E5BE81FA70D87008F9B6A /* YYFPSLabel.m */,
+			);
+			path = FPSLabel;
+			sourceTree = "<group>";
+		};
+		3A69FF791FA5FA2A00246830 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				3A9F53391FA9B49A004397F6 /* Read */,
+				3A69FF7A1FA5FA3600246830 /* Home */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		3A69FF7A1FA5FA3600246830 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF821FA62DE800246830 /* Model */,
+				3A69FF7E1FA5FD0300246830 /* View */,
+				3A69FF7B1FA5FA5000246830 /* HomeViewController.h */,
+				3A69FF7C1FA5FA5000246830 /* HomeViewController.m */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		3A69FF7E1FA5FD0300246830 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3A4E5BF61FA9138D008F9B6A /* LoopView */,
+				3A69FF7F1FA6250800246830 /* HomeNewsTableViewCell.h */,
+				3A69FF801FA6250800246830 /* HomeNewsTableViewCell.m */,
+				3A4E5BEA1FA71EFF008F9B6A /* SuspensionView.h */,
+				3A4E5BEB1FA71EFF008F9B6A /* SuspensionView.m */,
+				3A4E5BF31FA78202008F9B6A /* MenuView.h */,
+				3A4E5BF41FA78202008F9B6A /* MenuView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3A69FF821FA62DE800246830 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF831FA62E0A00246830 /* ResponseModel.h */,
+				3A69FF841FA62E0A00246830 /* ResponseModel.m */,
+				3A69FF861FA62E2500246830 /* NewsCellLayout.h */,
+				3A69FF871FA62E2500246830 /* NewsCellLayout.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3A69FF891FA6C10900246830 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				3A69FF8C1FA6C11F00246830 /* Colors.h */,
+				3A69FF8D1FA6C11F00246830 /* Strings.h */,
+				3A69FF8B1FA6C11F00246830 /* Fonts.h */,
+				3A69FF8A1FA6C11F00246830 /* Configs.h */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		3A9F53391FA9B49A004397F6 /* Read */ = {
+			isa = PBXGroup;
+			children = (
+				3A9F533D1FA9B987004397F6 /* View */,
+				3A9F533A1FA9B4C0004397F6 /* ReaderViewController.h */,
+				3A9F533B1FA9B4C0004397F6 /* ReaderViewController.m */,
+			);
+			path = Read;
+			sourceTree = "<group>";
+		};
+		3A9F533D1FA9B987004397F6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3A0321951FA9D0AC00A46A11 /* ReaderToolView.swift */,
+				3A0321941FA9D0AB00A46A11 /* FYPQDaily-Bridging-Header.h */,
+				3A0321971FA9FDE500A46A11 /* ReaderToolView.h */,
+				3A0321981FA9FDE500A46A11 /* ReaderToolView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A7FFDCF3FFBCF82071371512 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0C0E9A5D5F1139C881C18A62 /* libPods-FYPQDaily.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3A69FF391FA59C7200246830 /* FYPQDaily */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3A69FF661FA59C7200246830 /* Build configuration list for PBXNativeTarget "FYPQDaily" */;
+			buildPhases = (
+				F43FF9FC2D8DBEF1C84255A2 /* [CP] Check Pods Manifest.lock */,
+				3A69FF361FA59C7200246830 /* Sources */,
+				3A69FF371FA59C7200246830 /* Frameworks */,
+				3A69FF381FA59C7200246830 /* Resources */,
+				EFE7ED7C753994A6C313C121 /* [CP] Embed Pods Frameworks */,
+				8A089D35A7C70C4C15B97DE6 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FYPQDaily;
+			productName = FYPQDaily;
+			productReference = 3A69FF3A1FA59C7200246830 /* FYPQDaily.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3A69FF511FA59C7200246830 /* FYPQDailyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3A69FF691FA59C7200246830 /* Build configuration list for PBXNativeTarget "FYPQDailyTests" */;
+			buildPhases = (
+				3A69FF4E1FA59C7200246830 /* Sources */,
+				3A69FF4F1FA59C7200246830 /* Frameworks */,
+				3A69FF501FA59C7200246830 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3A69FF541FA59C7200246830 /* PBXTargetDependency */,
+			);
+			name = FYPQDailyTests;
+			productName = FYPQDailyTests;
+			productReference = 3A69FF521FA59C7200246830 /* FYPQDailyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3A69FF5C1FA59C7200246830 /* FYPQDailyUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3A69FF6C1FA59C7200246830 /* Build configuration list for PBXNativeTarget "FYPQDailyUITests" */;
+			buildPhases = (
+				3A69FF591FA59C7200246830 /* Sources */,
+				3A69FF5A1FA59C7200246830 /* Frameworks */,
+				3A69FF5B1FA59C7200246830 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3A69FF5F1FA59C7200246830 /* PBXTargetDependency */,
+			);
+			name = FYPQDailyUITests;
+			productName = FYPQDailyUITests;
+			productReference = 3A69FF5D1FA59C7200246830 /* FYPQDailyUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3A69FF321FA59C7200246830 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = FYP;
+				TargetAttributes = {
+					3A69FF391FA59C7200246830 = {
+						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 0900;
+						ProvisioningStyle = Automatic;
+					};
+					3A69FF511FA59C7200246830 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3A69FF391FA59C7200246830;
+					};
+					3A69FF5C1FA59C7200246830 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3A69FF391FA59C7200246830;
+					};
+				};
+			};
+			buildConfigurationList = 3A69FF351FA59C7200246830 /* Build configuration list for PBXProject "FYPQDaily" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3A69FF311FA59C7200246830;
+			productRefGroup = 3A69FF3B1FA59C7200246830 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3A69FF391FA59C7200246830 /* FYPQDaily */,
+				3A69FF511FA59C7200246830 /* FYPQDailyTests */,
+				3A69FF5C1FA59C7200246830 /* FYPQDailyUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3A69FF381FA59C7200246830 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A69FF4A1FA59C7200246830 /* LaunchScreen.storyboard in Resources */,
+				3A69FF471FA59C7200246830 /* Assets.xcassets in Resources */,
+				3A69FF451FA59C7200246830 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3A69FF501FA59C7200246830 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3A69FF5B1FA59C7200246830 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8A089D35A7C70C4C15B97DE6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FYPQDaily/Pods-FYPQDaily-resources.sh",
+				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FYPQDaily/Pods-FYPQDaily-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EFE7ED7C753994A6C313C121 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FYPQDaily/Pods-FYPQDaily-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F43FF9FC2D8DBEF1C84255A2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FYPQDaily-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3A69FF361FA59C7200246830 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A4E5BFC1FA91807008F9B6A /* LoopViewLayout.m in Sources */,
+				3A0321961FA9D0AC00A46A11 /* ReaderToolView.swift in Sources */,
+				3A9F533C1FA9B4C0004397F6 /* ReaderViewController.m in Sources */,
+				3A4E5BE91FA70D87008F9B6A /* YYFPSLabel.m in Sources */,
+				3A69FF421FA59C7200246830 /* ViewController.m in Sources */,
+				3A4E5BFF1FA918A6008F9B6A /* LoopViewCell.m in Sources */,
+				3A69FF881FA62E2500246830 /* NewsCellLayout.m in Sources */,
+				3A69FF4D1FA59C7200246830 /* main.m in Sources */,
+				3A4E5C031FA91CC3008F9B6A /* NSTimer+Blocks.m in Sources */,
+				3A4E5BE61FA70033008F9B6A /* HomeNewsDataManager.m in Sources */,
+				3A4E5BF51FA78202008F9B6A /* MenuView.m in Sources */,
+				3A0321991FA9FDE500A46A11 /* ReaderToolView.m in Sources */,
+				3A69FF3F1FA59C7200246830 /* AppDelegate.m in Sources */,
+				3A69FF811FA6250800246830 /* HomeNewsTableViewCell.m in Sources */,
+				3A4E5BF21FA76AFA008F9B6A /* DeviceUitil.m in Sources */,
+				3A4E5BEC1FA71EFF008F9B6A /* SuspensionView.m in Sources */,
+				3A69FF851FA62E0A00246830 /* ResponseModel.m in Sources */,
+				3A4E5BF91FA9150E008F9B6A /* LoopView.m in Sources */,
+				3A69FF7D1FA5FA5000246830 /* HomeViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3A69FF4E1FA59C7200246830 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A69FF571FA59C7200246830 /* FYPQDailyTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3A69FF591FA59C7200246830 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A69FF621FA59C7200246830 /* FYPQDailyUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3A69FF541FA59C7200246830 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3A69FF391FA59C7200246830 /* FYPQDaily */;
+			targetProxy = 3A69FF531FA59C7200246830 /* PBXContainerItemProxy */;
+		};
+		3A69FF5F1FA59C7200246830 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3A69FF391FA59C7200246830 /* FYPQDaily */;
+			targetProxy = 3A69FF5E1FA59C7200246830 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3A69FF431FA59C7200246830 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A69FF441FA59C7200246830 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3A69FF481FA59C7200246830 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A69FF491FA59C7200246830 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3A69FF641FA59C7200246830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3A69FF651FA59C7200246830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3A69FF671FA59C7200246830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5838B99F8B5B454DDC2D263 /* Pods-FYPQDaily.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEFINES_MODULE = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/FYPQDaily/PrefixHeader.pch";
+				INFOPLIST_FILE = FYPQDaily/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = FYP.FYPQDaily;
+				PRODUCT_NAME = FYPQDaily;
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "FYPQDaily/ViewController/Read/View/FYPQDaily-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3A69FF681FA59C7200246830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BBBEADA346B7B07DEB5D29BF /* Pods-FYPQDaily.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEFINES_MODULE = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/FYPQDaily/PrefixHeader.pch";
+				INFOPLIST_FILE = FYPQDaily/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = FYP.FYPQDaily;
+				PRODUCT_NAME = FYPQDaily;
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "FYPQDaily/ViewController/Read/View/FYPQDaily-Bridging-Header.h";
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3A69FF6A1FA59C7200246830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FYPQDailyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = FYP.FYPQDailyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FYPQDaily.app/FYPQDaily";
+			};
+			name = Debug;
+		};
+		3A69FF6B1FA59C7200246830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FYPQDailyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = FYP.FYPQDailyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FYPQDaily.app/FYPQDaily";
+			};
+			name = Release;
+		};
+		3A69FF6D1FA59C7200246830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FYPQDailyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = FYP.FYPQDailyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FYPQDaily;
+			};
+			name = Debug;
+		};
+		3A69FF6E1FA59C7200246830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = FYPQDailyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = FYP.FYPQDailyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FYPQDaily;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3A69FF351FA59C7200246830 /* Build configuration list for PBXProject "FYPQDaily" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A69FF641FA59C7200246830 /* Debug */,
+				3A69FF651FA59C7200246830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3A69FF661FA59C7200246830 /* Build configuration list for PBXNativeTarget "FYPQDaily" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A69FF671FA59C7200246830 /* Debug */,
+				3A69FF681FA59C7200246830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3A69FF691FA59C7200246830 /* Build configuration list for PBXNativeTarget "FYPQDailyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A69FF6A1FA59C7200246830 /* Debug */,
+				3A69FF6B1FA59C7200246830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3A69FF6C1FA59C7200246830 /* Build configuration list for PBXNativeTarget "FYPQDailyUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A69FF6D1FA59C7200246830 /* Debug */,
+				3A69FF6E1FA59C7200246830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3A69FF321FA59C7200246830 /* Project object */;
+}

@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/FYPQDaily.app/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FYPQDaily-Swift.h",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/FYPQDaily.app/Headers/FYPQDaily-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Products/Debug-iphonesimulator/FYPQDaily.app/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/MFQ/Documents/IOS_FYP/iOS\u77E5\u8BC6\u70B9/\u9879\u76EE/\u6BCF\u5468\u4E00\u7EC3/10.29\u9AD8\u4EFF\u597D\u5947\u5FC3\u65E5\u62A5/FYPQDaily/Build/Intermediates/FYPQDaily.build/Debug-iphonesimulator/FYPQDaily.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
